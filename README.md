@@ -36,15 +36,4 @@ My social:
 ---
 ### Stats 📊:
 
-<div style="float: left; width: 50%;">
-  <a href="https://github.com/Marco-MDV/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Marco-MDV" />
-  </a>
-</div>
-
-<div style="float: right; width: 50%;">
-  <a href="https://github.com/Marco-MDV/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marco-MDV&layout=pie" />
-  </a>
-</div>
-<div style="clear: both;"></div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marco-MDV)](https://github.com/Marco-MDV/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marco-MDV&layout=pie)](https://github.com/Marco-MDV/github-readme-stats)
