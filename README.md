@@ -36,11 +36,12 @@ My social:
 ---
 ### Stats 📊:
 
-<a href="https://github.com/Marco-MDV/github-readme-stats" style="float: left;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Marco-MDV" />
-  </a>
+<div style='display: flex; justify-content: space-between; align-items: flex-end;'>
+  <a href="https://github.com/Marco-MDV/github-readme-stats" >
+      <img src="https://github-readme-stats.vercel.app/api?username=Marco-MDV" />
+    </a>
 
-<a href="https://github.com/Marco-MDV/github-readme-stats" style="float: right;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marco-MDV&layout=pie" />
-  </a>
-<div style="clear: both;"></div>
+  <a href="https://github.com/Marco-MDV/github-readme-stats" >
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marco-MDV&layout=pie" />
+    </a>
+</div>
