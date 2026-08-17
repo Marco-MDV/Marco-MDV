@@ -32,16 +32,3 @@ My social:
 
 ### Tools 🧰:
 <img alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /><img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
----
-### Stats 📊:
-
-<div style='display: flex; justify-content: space-between; align-items: flex-end;'>
-  <a href="https://github.com/Marco-MDV/github-readme-stats" >
-      <img src="https://github-readme-stats.vercel.app/api?username=Marco-MDV" />
-    </a>
-
-  <a href="https://github.com/Marco-MDV/github-readme-stats" >
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marco-MDV&layout=pie" />
-    </a>
-</div>
